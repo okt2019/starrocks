@@ -1,2 +1,2 @@
-FROM dstarrocks/allin1-ubuntu:latest
+FROM starrocks/allin1-ubuntu:latest
 MAINTAINER aliyun
